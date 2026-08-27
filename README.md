@@ -7,7 +7,7 @@
 
 ### 📊 Account Performance Tracker
 <!-- VIEWS_START -->
-This profile has been viewed **0** times.
+[![Profile views](https://komarev.com/ghpvc/?username=Motherboard77&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/Motherboard77)
 <!-- VIEWS_END -->
 
 ---
