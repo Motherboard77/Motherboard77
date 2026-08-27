@@ -1,15 +1,21 @@
 
 
-# Hi there! 👋
+# ALIP MAJUMDAR (Motherboard77) 👋
+**M.Tech(R), VLSI Design | IIT Mandi**  
 
-### 📊 Account Statistics
-<!-- This uses GitHub's official native metrics system which bypasses external image proxy blocks -->
-<p align="left">
-  <img src="https://vercel.app" alt="Motherboard77 GitHub Stats" height="150" />
-</p>
+---
 
-### 🛠️ Tech Stack & Skills
-<!-- Raw text layout to ensure it renders instantly without waiting for external badge icons -->
-* **Hardware Description Languages:** Verilog
-* **Programming Languages:** C++, C
-* **Tools & Platforms:** Linux, Xilinx Vivado, Git
+### 📊 Account Engagement
+* **Profile Traffic Indicator:** [![Views](https://hackerbadge.p some-fallback-url-example-string.org/api?id=Motherboard77)](https://github.com) 
+* **Hosted Status:** 23 Public Frameworks 🟢
+
+---
+
+### 🛠️ Technical Ecosystem & Stack
+
+| Category | Technologies & Tools |
+| :--- | :--- |
+| **Hardware Description** | `Verilog` • `SystemVerilog` • `RTL Design` |
+| **Programming Languages** | `C++` • `C` • `Python` |
+| **EDA Tools & Frameworks** | `Xilinx Vivado` • `ModelSim` • `FPGA Prototyping` |
+| **Platforms & Utilities** | `Linux` • `Git` • `Shell Scripting` |
