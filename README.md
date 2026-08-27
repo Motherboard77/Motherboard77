@@ -1,13 +1,13 @@
 
 
-# ALIP MAJUMDAR (Motherboard77) 👋
-**M.Tech(R), VLSI Design | IIT Mandi**  
+# Hi There 👋
+ 
 
 ---
 
 ### 📊 Account Performance Tracker
 <!-- VIEWS_START -->
-[![Profile views](https://komarev.com/ghpvc/?username=Motherboard77&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/Motherboard77)
+[![View Count](https://komarev.com/ghpvc/?username=Motherboard77&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/Motherboard77)
 <!-- VIEWS_END -->
 
 ---
