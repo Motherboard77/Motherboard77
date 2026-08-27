@@ -16,4 +16,12 @@ Here are some ideas to get you started:
 -->
 # Hi there! 👋
 
-![GitHub Views](https://komarev.com)
+![Visitor Count](https://glitch.me)
+
+### 🛠️ Tech Stack & Skills
+<p align="left">
+  <img src="https://shields.io" alt="Verilog" />
+  <img src="https://shields.io" alt="C++" />
+  <img src="https://shields.io" alt="Linux" />
+  <img src="https://shields.io" alt="Git" />
+</p>
