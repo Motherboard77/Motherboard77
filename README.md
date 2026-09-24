@@ -16,7 +16,7 @@
       <img src="https://streak-stats.demolab.com?user=Motherboard77&theme=dark&hide_border=true" alt="GitHub streak" width="430" />
     </td>
     <td valign="middle" align="center">
-      <img src="assets/quantum-national.gif" alt="Quantum computing animation" width="360" />
+      <img src="assets/quantum-national.gif" alt="Quantum computing animation" width="360" height="540" />
     </td>
   </tr>
 </table>
